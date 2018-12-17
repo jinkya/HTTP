@@ -1,6 +1,5 @@
 ## HTTP Essential
-		Morten Rand Hendriksen Lynda COurse
-		50 min
+		Morten Rand Hendriksen Lynda
 
 Web Content Interaction Request and Responses between client and server are guided by the HTTP protocol.
 
